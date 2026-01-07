@@ -1,6 +1,9 @@
 # Horizon Courts - Sport Landing Page
 
 A modern, high-performance landing page for a premium tennis club, built with React and Tailwind CSS. This project focuses on clean aesthetics, responsive layouts, and interactive UI elements.
+---
+
+## 🌐 Website Preview
 
 ![Project Preview](https://mir-s3-cdn-cf.behance.net/project_modules/2800_webp/3334c3231972499.68933676c1c44.png)
 
@@ -42,3 +45,4 @@ src/
 
 ---
 *Built with ❤️ by Jeel Gandhi*
+
